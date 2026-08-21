@@ -17,7 +17,7 @@ No requiere instalación ni proceso de compilación.
   Las miniaturas de los anuncios van embebidas como data URI, así que la página funciona sin
   conexión y sin carpeta de assets.
 - `styles.css`: sistema visual compartido, en Poppins, negro `#050505` / papel `#f4f4f1` y amarillo
-  `#ffd400`, heredado de [Raza.do](https://github.com/DanielAdcom98/Raza).
+  `#ffd400`, heredado de [Raza.do](https://github.com/DanielAdcom98/raza).
 
 La única dependencia externa es Google Fonts (Poppins). Sin conexión, la página cae al stack de
 respaldo declarado en el CSS.
